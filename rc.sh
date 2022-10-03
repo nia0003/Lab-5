@@ -1,5 +1,6 @@
 #! /bin/sh
 
+5
 #initialize variable
 reverse=""
 
