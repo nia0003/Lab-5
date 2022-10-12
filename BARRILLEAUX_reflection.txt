@@ -1,0 +1,15 @@
+Lab 5 Reflection Questions
+
+Reflect on how you currently manage your documents and code, particularly content associated with publishable work. 
+
+	Would it stand up to a reproducibility test?
+		I think I currently do a pretty good job managing code and documents in an organized, readable way. I do think the reproducibility could be improved by applying protocols/formatting.
+
+
+	How do you think non-reproducibile research affects computational biology and bioinformatics?
+		Non-reproducible research negatively affects all fields of science. Specifically in computational biology and bioinformatics, which rely heavily on reproducibility, research without this quality is likely unuseable. 
+
+
+	What about in your specific field of study?
+		Without reproducibility, genetics and genomic research is not consistent and unhelpful. Research lacking reproducibility also haults progress without other scientists being able to use and understand the research.
+
